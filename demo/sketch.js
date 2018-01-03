@@ -7,7 +7,7 @@ var displayHeightmap = true;
 var displaySlopes = false;
 
 function preload() {
-	img = loadImage('assets/heighmap.png');
+	img = loadImage('assets/heightmap.png');
 }
 
 function setup() {
